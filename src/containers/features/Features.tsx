@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./features.css";
 import { Feature } from "../../components";
 // rafce for functional component

@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./cta.css";
 // rafce for functional component
 const CTA = () => {

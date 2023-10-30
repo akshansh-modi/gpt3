@@ -1,4 +1,4 @@
-import React from 'react'
+
 import './article.css';
 // rafce for functional component
 const Article = ({imgUrl,date,title}:any) => {

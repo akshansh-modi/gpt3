@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./possibility.css";
 // rafce for functional component
 import possibilityImage from "../../assets/possibility.png";

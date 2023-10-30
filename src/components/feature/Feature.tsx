@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./feature.css";
 // rafce for functional component
 const Feature = ({ title, text }: any) => {
